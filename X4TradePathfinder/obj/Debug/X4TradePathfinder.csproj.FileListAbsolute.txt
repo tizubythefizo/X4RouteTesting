@@ -1,0 +1,7 @@
+C:\Users\2x4\source\repos\X4TradePathfinder\X4TradePathfinder\bin\Debug\X4TradePathfinder.exe.config
+C:\Users\2x4\source\repos\X4TradePathfinder\X4TradePathfinder\bin\Debug\X4TradePathfinder.exe
+C:\Users\2x4\source\repos\X4TradePathfinder\X4TradePathfinder\bin\Debug\X4TradePathfinder.pdb
+C:\Users\2x4\source\repos\X4TradePathfinder\X4TradePathfinder\obj\Debug\X4TradePathfinder.csprojAssemblyReference.cache
+C:\Users\2x4\source\repos\X4TradePathfinder\X4TradePathfinder\obj\Debug\X4TradePathfinder.csproj.CoreCompileInputs.cache
+C:\Users\2x4\source\repos\X4TradePathfinder\X4TradePathfinder\obj\Debug\X4TradePathfinder.exe
+C:\Users\2x4\source\repos\X4TradePathfinder\X4TradePathfinder\obj\Debug\X4TradePathfinder.pdb
